@@ -1,4 +1,5 @@
 import json
+import pydub
 
 
 def hello(event, context):
@@ -13,6 +14,9 @@ def hello(event, context):
     }
 
     return response
+
+def convert(event, context):
+  
 
     # Use this code if you don't use the http event with the LAMBDA-PROXY
     # integration
