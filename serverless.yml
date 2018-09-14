@@ -12,7 +12,9 @@
 # Happy Coding!
 
 # NOTE: update this with your service name
-service: MusicDemo
+service: audemo
+app: audemo
+tenant: ethan555
 
 # You can pin your service to only deploy with a specific Serverless version
 # Check out our docs for more details
